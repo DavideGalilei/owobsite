@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "owobsite",
+    "version": "0.0.1",
+    "description": "Transform every website in your worst nightmare",
+    "content_scripts": [{
+        "matches": ["http://*/*", "https://*/*"],
+        "js": ["index.js"]
+    }],
+    "homepage_url": "https://github.com/DavideGalilei/owobsite"
+}
