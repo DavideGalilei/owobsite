@@ -14,6 +14,9 @@ $ nimble install https://github.com/DavideGalilei/owoifynim
 $ nim c index.js
 ```
 
+![example one](assets/example1.jpg)
+![example two](assets/example2.jpg)
+
 # Credits
 https://github.com/deadshot465/owoifynim (it has no JS backend support, so I made [my own fork](https://github.com/DavideGalilei/owoifynim))
 https://github.com/juancarlospaco/geoguessrnim
